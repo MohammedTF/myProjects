@@ -27,3 +27,10 @@
 🔗 https://mtfbanknotes.netlify.app
 
 ---
+
+### 💎 بروفايل Ovale
+بروفايل رقمي لمحل Ovale لبيع الذهب، يجمع جميع الروابط والخدمات المهمة في صفحة واحدة لتسهيل الوصول للمعلومات والتواصل والشراء..
+
+🔗 [https://mtfbanknotes.netlify.app](https://ovale.netlify.app)
+
+---
